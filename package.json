@@ -1,0 +1,21 @@
+{
+  "name": "node-graphql-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./server/index.js"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-node5": "^11.1.0",
+    "babel-register": "^6.9.0",
+    "bluebird": "^3.4.0",
+    "express": "^4.13.4",
+    "faker": "^3.1.0",
+    "graphql": "^0.6.0",
+    "http": "0.0.0",
+    "lodash": "^4.13.1",
+    "pg": "^4.5.6",
+    "sequelize": "^3.23.3"
+  }
+}
